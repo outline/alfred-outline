@@ -124,9 +124,9 @@
 	<key>variables</key>
 	<dict>
 		<key>apiToken</key>
-		<string>vQchzHtSq0bw3Gr8TT2gyvPpYI5vBHQAiNUmcE</string>
+		<string></string>
 		<key>subdomain</key>
-		<string>inside</string>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
