@@ -7,7 +7,7 @@ Simply type your keyword into Alfred (default: ou) to see instant search results
 ## Installation
 
 ```
-$ npm install --global alfred-npms
+$ npm install --global alfred-outline
 ```
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
