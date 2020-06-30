@@ -15,7 +15,7 @@ $ npm install --global alfred-npms
 ## Workflow Variables
 
 - `apiToken`: Grab a personal API token from the settings page in Outline: https://www.getoutline.com/settings/tokens
-- `subdomain`: This should be your just your teams Outline subdomain, whatever is listed between the protocol and getoutline.com in your browsers address bar: https://<SUBDOMAIN>.getoutline.com
+- `subdomain`: This should be your just your teams Outline subdomain, whatever is listed between the protocol and getoutline.com in your browsers address bar: https://\<SUBDOMAIN\>.getoutline.com
 
 ## Usage
 
