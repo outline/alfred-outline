@@ -125,12 +125,12 @@
 	<dict>
 		<key>apiToken</key>
 		<string></string>
-		<key>subdomain</key>
+		<key>domain</key>
 		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
-		<string>subdomain</string>
+		<string>domain</string>
 		<string>apiToken</string>
 	</array>
 	<key>version</key>

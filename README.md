@@ -1,6 +1,6 @@
 # alfred-outline
 
-An Alfred workflow to search your team Outline from the comfort of your desktop. 
+An Alfred workflow to search your team Outline from the comfort of your desktop.
 
 Simply type your keyword into Alfred (default: ou) to see instant search results from your Outline knowledge base. Selecting a search result takes you directly to that Outline document in your default web browser.
 
@@ -21,7 +21,7 @@ $ npm install --global alfred-outline
 ## Workflow Variables
 
 - `apiToken`: Grab a personal API token from the settings page in Outline: https://www.getoutline.com/settings/tokens
-- `subdomain`: This should be your just your teams Outline subdomain, whatever is listed between the protocol and getoutline.com in your browsers address bar: https://\<SUBDOMAIN\>.getoutline.com
+- `domain`: This should be your just your teams Outline domain(\<TEAM-SUBDOMAIN\>.getoutline.com) for getoutline.com managed instances and https://\<DOMAIN\> for self-hosted instances.
 
 ## Usage
 
