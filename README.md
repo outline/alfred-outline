@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/alfred-outline.svg)](https://badge.fury.io/js/alfred-outline)
+
 # alfred-outline
 
 An Alfred workflow to search your team Outline from the comfort of your desktop.
