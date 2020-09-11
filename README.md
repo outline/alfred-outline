@@ -20,8 +20,8 @@ $ npm install --global alfred-outline
 
 ## Workflow Variables
 
-- `apiToken`: Grab a personal API token from the settings page in Outline: `https://www.getoutline.com/settings/tokens` or `https://\<DOMAIN\>/settings/tokens`
-- `domain`: This should be your just your teams Outline domain (`\<TEAM-SUBDOMAIN\>.getoutline.com`) for getoutline.com managed instances and `https://\<DOMAIN\>` for self-hosted instances.
+- `apiToken`: Grab a personal API token from the settings page in Outline: `https://www.getoutline.com/settings/tokens` or `https://<DOMAIN>/settings/tokens`
+- `domain`: This should be your just your teams Outline domain (`<TEAM-SUBDOMAIN>.getoutline.com`) for getoutline.com managed instances and the fully qualified domain without protocol (eg `wiki.mycompany.com`) for self-hosted instances.
 
 ## Usage
 
